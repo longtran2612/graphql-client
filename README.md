@@ -1,3 +1,2 @@
 # graphql-client
-
- LIBRARY FOR CALL GRAPHQL API
+SDK for call graphql api
